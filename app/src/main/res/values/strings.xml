@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EMIApp</string>
+    <string name="emicalculator_text">EMI Calculator</string>
+    <string name="mortgageamount_text">Mortgage Principal Amount</string>
+    <string name="dollar_text">$</string>
+    <string name="annualinterest_text">Annual Interest Rate</string>
+    <string name="percentage_text">%</string>
+    <string name="amortizationperiod_text">Amortization period</string>
+    <string name="years_text">years</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="monthlypayment_text">EMI:</string>
+    <string name="emiamount_text">$ 0.00</string>
+    <string name="totalinterest_text">Total amount of interest:</string>
+    <string name="paidinterest_text">$ 0.00</string>
+
+
+
+</resources>
